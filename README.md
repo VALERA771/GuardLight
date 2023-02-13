@@ -1,3 +1,5 @@
+![Github All Downloads](https://img.shields.io/github/downloads/VALERA771/GuardLight/total.svg?style=flat)
+
 # GuardLight
 Allows guards to spawn in LCZ
 
